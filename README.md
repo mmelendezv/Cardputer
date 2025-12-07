@@ -23,8 +23,8 @@ Proyectos de Internet de las Cosas (IoT).
 Wearables y dispositivos portátiles.
 Automatización del hogar (control IR). 
 
-# Capitulo 1. Inicio en Arduino R4.
-El primer punto con la tarjeta es instalar el software el IDE de Arduino, se recomienda usar una versión reciente. Al momento es tiene la version 2.3.6 (considerando una instalacion de Windows):
+# Capitulo 1. Inicio en Cardputer
+   El primer punto con la tarjeta es instalar el software el IDE de Arduino, se recomienda usar una versión reciente. Al momento es tiene la version 2.3.6 (considerando una instalacion de Windows):
 
 <img width="863" height="582" alt="AcercaDe" src="https://github.com/user-attachments/assets/ab6ff512-6a90-4902-9a30-5873e09a9a49" />
 
