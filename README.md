@@ -45,21 +45,6 @@ El desarrollo de la programacion es flexible, puede ser en difentes formas:
 Una vez instaladas las librerias, se pueden compilar algunos ejemplos provistos en la plataforma de M5Stack.
 ![20251207_110827](https://github.com/user-attachments/assets/6f9b276f-c9b4-4e0f-9f1c-292bc4d62752)
 
-
-El primer punto con la tarjeta es instalar el software el IDE de Arduino, se recomienda usar una versión reciente. Al momento es tiene la version 2.3.6 (considerando una instalacion de Windows):
-
-<img width="863" height="582" alt="AcercaDe" src="https://github.com/user-attachments/assets/ab6ff512-6a90-4902-9a30-5873e09a9a49" />
-
-https://www.arduino.cc/en/software
-
-Una vez instalado el software, hay que configurar dos puntos importantes; la placa, en este la placa Arduino UNO R4 WiFi y el puerto conectado en la PC como se muestran en las imagenes.
-<img width="954" height="584" alt="boardR4" src="https://github.com/user-attachments/assets/67fcb500-4443-41da-9292-bc6d15f82d3f" />
-<img width="948" height="583" alt="PuertoR4" src="https://github.com/user-attachments/assets/2f6de195-a4ea-4b75-a365-3ccc469463d6" />
-
-Posteriormente sera necesario instalar las librerias correspondientes a los elementos a conectar en el circuito de la tarjeta, para ello en el menu indicado encontrar el dispositivo para instalar:
-<img width="891" height="501" alt="lib01" src="https://github.com/user-attachments/assets/65a7da02-5637-4138-a778-51c96717b68a" />
-<img width="891" height="502" alt="lib02" src="https://github.com/user-attachments/assets/38e297ab-03e1-4f32-b659-7fc339ff6011" />
-
 ```
 /* ejemplo 01
 #include "Arduino_LED_Matrix.h"
