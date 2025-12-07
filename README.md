@@ -2,29 +2,51 @@
 ![img](https://github.com/user-attachments/assets/66189f7e-0da0-4a03-8068-3cbbdf059fd6)
 
 
-La placa Cardputer de Stack M5 es un producto propio para estudiantes, ingenieros o cualquier entusiasta de la computacion. Este producto es una microcomputadora portatil impulsada por un ESP32-S3. Destaca por su diseño compacto, teclado QWERTY completo, pantalla TFT a color, conectividad Wi-Fi/Bluetooth, altavoz, micrófono, ranura MicroSD y emisor IR, ideal para proyectos de IoT y desarrollo gracias a su potente procesador de doble núcleo y bajo consumo, con compatibilidad LEGO y puertos de expansión Grove.
+La placa Cardputer de Stack M5 es un producto propio para estudiantes, ingenieros o cualquier entusiasta de la computacion. Esta es una computadora de bolsillo de arquitectura abierta siendo una opción perfecta en ingeniería. El corazón de esta computadora es un microprocesador M5StampS3, mediante una mini tarjeta de desarrollo basada en chip ESP32-S3. Las características de esta computadora completa la convierten a una poderosa herramienta de doble núcleo, soporta Wi-Fi e integra varios periféricos capaces de manejar funciones rápidas.
+
+Cuenta con una batería interna de 120mAh y otra batería adicional de 1400mAh de litio (dentro de la base). Durante la carga de la batería interna hay un circuito protector de voltaje y corriente que automáticamente ajusta voltaje y corriente para la batería.
+Tiene una bocina integrada, pantalla de 200x135 pixeles, un infrarrojo, una ranura de memoria micro SD para ampliar el almacenamiento; la base de la computadora incorpora un imán que permite montar a superficies de metal, pues la estructura es compatible con orificios de Lego, permitiendo a crear diseños de Lego. Tiene una bocina integrada, pantalla de 200x135 pixeles, un infrarrojo, una ranura de memoria micro SD para ampliar el almacenamiento.
+
+En términos de expansión, hay un puerto Grove integrado, lo que permite la expansión de sensores I2C fácilmente.
+ 
+Aplicaciones:
+* Creación de prototipos.
+* Verificación funcional. 
+* Desarrollo de sistemas embebidos.
+* Curva de aprendizaje rápida.
+* Propio para comunicación inalámbrica de internet las cosas (IoT).
+* Uso de diversas herramientas de programación: UIFlow, IDE de Arduino, MicroPython.
+* Vasta gama de sensores I2C
 
 Características principales
-Procesador: ESP32-S3 de doble núcleo (Xtensa LX7).
-Pantalla: LCD TFT de 1.14 pulgadas (135x240).
-Teclado: QWERTY de 56 teclas con respuesta táctil.
-Memoria: 16MB Flash, 8MB PSRAM.
-Conectividad: Wi-Fi 2.4GHz, Bluetooth 5.0 LE.
-Audio: Micrófono MEMS digital y altavoz integrado.
-Almacenamiento: Ranura para tarjeta MicroSD.
-Expansión: Interfaz USB Type-C, puertos Grove, compatibilidad con LEGO (agujeros).
-Sensores/Control: Emisor de infrarrojos (IR).
-Batería: Batería de litio integrada (varios modelos).
-Botones: Encendido/apagado, reinicio, y otros.
-Funciones: Incluye apps preinstaladas como escaneo Wi-Fi, toma de notas, control remoto IR. 
-Ideal para
-Ingenieros y desarrolladores.
-Proyectos de Internet de las Cosas (IoT).
-Wearables y dispositivos portátiles.
-Automatización del hogar (control IR). 
+
+
+Características: 
+* Microcontrolador ESP32-S3 de doble núcleo (Xtensa LX7).
+* Pantalla: IPS TFT, 1.14 pulgadas, 240 x 135 píxeles.
+* Memoria: 16MB Flash, 8MB PSRAM.
+* 8 Conectividad Wi-Fi 2.4GHz, Bluetooth 5.0 LE.
+* Batería: Internal 120mAh + 1400mAh (en la base).
+* Rarura TF-Card (MicroSD).
+* Interfaz USB Type-C, puertos Grove, compatibilidad con LEGO (agujeros).
+* Teclado: 56 teclas , tipo QWERTY con respuesta  táctil. Botones: Encendido/apagado, reinicio, y otros.
+* Sensores/Control: Emisor de infrarrojos (IR).
+* Audio Micrófono SPM1423 MEMS digital.
+* Sonido: bocina I2S de 8 ohmios a 1W.
+* Interface HY2.0-4P para expander sensores I2C.
 
 # Capitulo 1. Inicio en Cardputer
-   El primer punto con la tarjeta es instalar el software el IDE de Arduino, se recomienda usar una versión reciente. Al momento es tiene la version 2.3.6 (considerando una instalacion de Windows):
+El desarrollo de la programacion es flexible, puede ser en difentes formas:
+* A traves del IDE de Arduino, se recomienda instalar la version 2.3.6 o alguna receciente para instalar las librerias de M5Cardputer
+<img width="894" height="497" alt="M5Cardputer" src="https://github.com/user-attachments/assets/a2ebdeba-39e6-4fb5-bbe6-b52a826a5f61" />
+<img width="895" height="502" alt="M5Cardputer2" src="https://github.com/user-attachments/assets/5878086d-8b47-4499-965c-79d90ca0162d" />
+<img width="891" height="502" alt="M5Cardputer3" src="https://github.com/user-attachments/assets/4597fc96-b6ca-46f0-b350-69ed2f05c604" />
+
+Una vez instaladas las librerias, se pueden compilar algunos ejemplos provistos en la plataforma de M5Stack.
+![20251207_110827](https://github.com/user-attachments/assets/6f9b276f-c9b4-4e0f-9f1c-292bc4d62752)
+
+
+El primer punto con la tarjeta es instalar el software el IDE de Arduino, se recomienda usar una versión reciente. Al momento es tiene la version 2.3.6 (considerando una instalacion de Windows):
 
 <img width="863" height="582" alt="AcercaDe" src="https://github.com/user-attachments/assets/ab6ff512-6a90-4902-9a30-5873e09a9a49" />
 
