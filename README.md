@@ -1,6 +1,6 @@
 # Plataforma Stack M5 - Cardputer
-![img](https://github.com/user-attachments/assets/66189f7e-0da0-4a03-8068-3cbbdf059fd6)
 
+![m5stack-cardputer](https://github.com/user-attachments/assets/842b5b2f-7e1a-4a76-b80d-76f2789bbaed)
 
 La placa Cardputer de Stack M5 es un producto propio para estudiantes, ingenieros o cualquier entusiasta de la computacion. Esta es una computadora de bolsillo de arquitectura abierta siendo una opción perfecta para desarrollo de esta plataforma. El corazón de esta computadora es un microprocesador M5StampS3, mediante una mini tarjeta basada en chip ESP32-S3,  las características de esta computadora completa la convierten a una poderosa herramienta de doble núcleo, soporta Wi-Fi e integra varios periféricos capaces de manejar funciones rápidas.
 Cuenta con una batería interna de 120mAh y otra batería adicional de 1400mAh de litio (dentro de la base). Durante la carga de la batería interna hay un circuito protector de voltaje y corriente que automáticamente ajusta voltaje y corriente para la batería.
