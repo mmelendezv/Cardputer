@@ -56,7 +56,6 @@ Igual que en las librerias de Aduino, para PlatforIO se reqieren tambien las lib
 <img width="976" height="644" alt="Cardputer_platforIO" src="https://github.com/user-attachments/assets/bf353d87-3fff-4bd6-b9c7-d07baf890eb1" />
 
 Una vez instalado PlatforIO, se compila el codigo de M5Stack.
-
 ![img](https://github.com/user-attachments/assets/8979e5dd-eb99-4b7c-9d3b-70b672116702)
 
    
