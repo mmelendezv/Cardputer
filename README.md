@@ -58,9 +58,10 @@ Igual que en las librerias de Aduino, para PlatforIO se reqieren tambien las lib
 Una vez instalado PlatforIO, se compila el codigo de M5Stack.
 ![img](https://github.com/user-attachments/assets/8979e5dd-eb99-4b7c-9d3b-70b672116702)
 
- * A traves de  UIFLOW se tiene una intefaz grafica para programar.
- * 
-   <img width="735" height="462" alt="Cardputer_uiFlow" src="https://github.com/user-attachments/assets/e8ee0f2f-edf0-4af1-9665-cefb3a831606" />
+ * A traves de  UIFLOW se tiene una intefaz grafica para programar de una manera amigable, para ello se requiere cargar el software para registrarse:
+
+   <img width="735" height="462" alt="Cardputer_uiFlow" src="https://github.com/user-attachments/assets/e8ee0f2f-edf0-4af1-9665-cefb3a831606" />   
+   <img width="769" height="632" alt="Cardputer_uiFlow2" src="https://github.com/user-attachments/assets/eafa3f80-2f92-4ef0-ae90-e7477d8b704b" />
 
 
 /* ejemplo 01
