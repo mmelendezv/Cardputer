@@ -2,8 +2,7 @@
 ![img](https://github.com/user-attachments/assets/66189f7e-0da0-4a03-8068-3cbbdf059fd6)
 
 
-La placa Cardputer de Stack M5 es un producto propio  para estudiantes, ingenieros o cualquier entusiasta de la computacion. Esta es una computadora de bolsillo de arquitectura abierta siendo una opción perfecta en ingeniería. El corazón de esta computadora es un microprocesador M5StampS3, mediante una mini tarjeta de desarrollo basada en chip ESP32-S3. Las características de esta computadora completa la convierten a una poderosa herramienta de doble núcleo, soporta Wi-Fi e integra varios periféricos capaces de manejar funciones rápidas.
-
+La placa Cardputer de Stack M5 es un producto propio para estudiantes, ingenieros o cualquier entusiasta de la computacion. Esta es una computadora de bolsillo de arquitectura abierta siendo una opción perfecta para desarrollo de esta plataforma. El corazón de esta computadora es un microprocesador M5StampS3, mediante una mini tarjeta basada en chip ESP32-S3,  las características de esta computadora completa la convierten a una poderosa herramienta de doble núcleo, soporta Wi-Fi e integra varios periféricos capaces de manejar funciones rápidas.
 Cuenta con una batería interna de 120mAh y otra batería adicional de 1400mAh de litio (dentro de la base). Durante la carga de la batería interna hay un circuito protector de voltaje y corriente que automáticamente ajusta voltaje y corriente para la batería.
 Tiene una bocina integrada, pantalla de 200x135 pixeles, un infrarrojo, una ranura de memoria micro SD para ampliar el almacenamiento; la base de la computadora incorpora un imán que permite montar a superficies de metal, pues la estructura es compatible con orificios de Lego, permitiendo a crear diseños de Lego. Tiene una bocina integrada, pantalla de 200x135 pixeles, un infrarrojo, una ranura de memoria micro SD para ampliar el almacenamiento.
 
@@ -17,9 +16,6 @@ Aplicaciones:
 * Propio para comunicación inalámbrica de internet las cosas (IoT).
 * Uso de diversas herramientas de programación: UIFlow, IDE de Arduino, MicroPython.
 * Vasta gama de sensores I2C
-
-Características principales
-
 
 Características: 
 * Microcontrolador ESP32-S3 de doble núcleo (Xtensa LX7).
@@ -37,12 +33,16 @@ Características:
 
 # Capitulo 1. Inicio en Cardputer
 El desarrollo de la programacion es flexible, puede ser en difentes formas:
-* A traves del IDE de Arduino, se recomienda instalar la version 2.3.6 o alguna receciente para instalar las librerias de M5Cardputer
+* A traves del IDE de Arduino,
+<img width="721" height="322" alt="m5cardputer_arduino" src="https://github.com/user-attachments/assets/b06583c2-ba9a-4538-98eb-05d4f45c775e" />
+Se recomienda instalar la version 2.3.6 o alguna receciente para instalar las librerias de M5Cardputer
 <img width="894" height="497" alt="M5Cardputer" src="https://github.com/user-attachments/assets/a2ebdeba-39e6-4fb5-bbe6-b52a826a5f61" />
 <img width="895" height="502" alt="M5Cardputer2" src="https://github.com/user-attachments/assets/5878086d-8b47-4499-965c-79d90ca0162d" />
 <img width="891" height="502" alt="M5Cardputer3" src="https://github.com/user-attachments/assets/4597fc96-b6ca-46f0-b350-69ed2f05c604" />
 
+* A traves de 
 Una vez instaladas las librerias, se pueden compilar algunos ejemplos provistos en la plataforma de M5Stack.
+
 ![20251207_110827](https://github.com/user-attachments/assets/6f9b276f-c9b4-4e0f-9f1c-292bc4d62752)
 
 ```
