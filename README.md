@@ -44,12 +44,12 @@ Se recomienda instalar la version 2.3.6 o alguna receciente para instalar las li
 <img width="895" height="502" alt="M5Cardputer2" src="https://github.com/user-attachments/assets/5878086d-8b47-4499-965c-79d90ca0162d" />
 <img width="891" height="502" alt="M5Cardputer3" src="https://github.com/user-attachments/assets/4597fc96-b6ca-46f0-b350-69ed2f05c604" />
 
-* A traves de 
 Una vez instaladas las librerias, se pueden compilar algunos ejemplos provistos en la plataforma de M5Stack.
 
 ![20251207_110827](https://github.com/user-attachments/assets/6f9b276f-c9b4-4e0f-9f1c-292bc4d62752)
 
-```
+* A traves de PlatformIO se puede programar tambien, lo principal es instalar la extensión en VS Code, crear un nuevo proyecto seleccionando la placa de StampS3 y framework de la familia de M5Stack  escribir tu código en src/main.cpp, compilarlo (✓), y luego subirlo (flecha) a tu dispositivo.
+   
 /* ejemplo 01
 #include "Arduino_LED_Matrix.h"
 #include "01.h"
