@@ -33,9 +33,13 @@ Características:
 
 # Capitulo 1. Inicio en Cardputer
 El desarrollo de la programacion es flexible, puede ser en difentes formas:
+
 * A traves del IDE de Arduino,
+  
 <img width="721" height="322" alt="m5cardputer_arduino" src="https://github.com/user-attachments/assets/b06583c2-ba9a-4538-98eb-05d4f45c775e" />
+
 Se recomienda instalar la version 2.3.6 o alguna receciente para instalar las librerias de M5Cardputer
+
 <img width="894" height="497" alt="M5Cardputer" src="https://github.com/user-attachments/assets/a2ebdeba-39e6-4fb5-bbe6-b52a826a5f61" />
 <img width="895" height="502" alt="M5Cardputer2" src="https://github.com/user-attachments/assets/5878086d-8b47-4499-965c-79d90ca0162d" />
 <img width="891" height="502" alt="M5Cardputer3" src="https://github.com/user-attachments/assets/4597fc96-b6ca-46f0-b350-69ed2f05c604" />
