@@ -62,6 +62,8 @@ Una vez instalado PlatforIO, se compila el codigo de M5Stack.
 
    <img width="735" height="462" alt="Cardputer_uiFlow" src="https://github.com/user-attachments/assets/e8ee0f2f-edf0-4af1-9665-cefb3a831606" />   
    <img width="769" height="632" alt="Cardputer_uiFlow2" src="https://github.com/user-attachments/assets/eafa3f80-2f92-4ef0-ae90-e7477d8b704b" />
+   <img width="1294" height="928" alt="Cardputer_uiFlow3" src="https://github.com/user-attachments/assets/733e575e-f44c-46e6-90e0-f7461dc24f85" />
+
 
 
 /* ejemplo 01
