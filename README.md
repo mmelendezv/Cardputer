@@ -31,7 +31,7 @@ Características:
 * Sonido: bocina I2S de 8 ohmios a 1W.
 * Interface HY2.0-4P para expander sensores I2C.
 
-# Capitulo 1. Inicio en Cardputer
+# Inicio en Cardputer
 El desarrollo de la programacion es flexible, puede ser en difentes formas:
 
 * A traves del IDE de Arduino,
