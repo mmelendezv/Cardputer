@@ -52,6 +52,7 @@ Una vez instaladas las librerias, se pueden compilar algunos ejemplos provistos 
 * A traves de PlatformIO se puede programar tambien, lo principal es instalar la extensión en VS Code, crear un nuevo proyecto seleccionando la placa de StampS3 y framework de la familia de M5Stack  escribir tu código en src/main.cpp, compilarlo (✓), y luego subirlo (flecha) a tu dispositivo.
 Igual que en las librerias de Aduino, para PlatforIO se reqieren tambien las librerias: M5Cardputer, M5GFX y M5Unified.
 
+<img width="1365" height="718" alt="Cardputer_platforIO_lib" src="https://github.com/user-attachments/assets/fbab8454-4e57-4296-bbb6-03616c20a488" />
 <img width="976" height="644" alt="Cardputer_platforIO" src="https://github.com/user-attachments/assets/bf353d87-3fff-4bd6-b9c7-d07baf890eb1" />
 
    
