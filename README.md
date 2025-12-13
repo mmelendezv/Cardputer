@@ -64,6 +64,15 @@ Una vez instalado PlatforIO, se compila el codigo de M5Stack.
    <img width="769" height="632" alt="Cardputer_uiFlow2" src="https://github.com/user-attachments/assets/eafa3f80-2f92-4ef0-ae90-e7477d8b704b" />
    <img width="1294" height="928" alt="Cardputer_uiFlow3" src="https://github.com/user-attachments/assets/733e575e-f44c-46e6-90e0-f7461dc24f85" />
 
+* A traves de Python puede programar con este lenguaje, para ello hay que instalar el software por medio de la propia tarjeta del dispositivo.
+<img width="605" height="450" alt="M5stack" src="https://github.com/user-attachments/assets/28a0d5da-b6ae-436f-9226-ed159871147d" />
+en este link es posible descargar el software necesario
+<img width="1299" height="605" alt="python01" src="https://github.com/user-attachments/assets/32a38267-a7cf-42a8-b71a-4046a4006df3" />
+  El .UF2 que instala la unidad en la PC al abrir el instalador:
+  <img width="654" height="398" alt="python02" src="https://github.com/user-attachments/assets/3c01fff7-aef3-48ad-b3b2-791ffb2cef30" />
+
+  es importante indicar que el boton  "GO" de lado izquierdo junto al interruptor debe ser presionado unos segundos antes de conectar el cable USB considerando que esta apagada antes del proceso de la Cardputer como lo muestra la imagen:
+  
 
 
 /* ejemplo 01
