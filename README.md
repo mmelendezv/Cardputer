@@ -80,10 +80,11 @@ una vez cargado el software en la unidad UF2 se muestra un icono que representa 
 
 Y el software esta listo para programar en Python.
 
-A nivel codigo fuente, los ejemplos representativos en Arduino/PlatformIO se comparten aqui ...
+A nivel codigo fuente, los ejemplos representativos en Arduino/PlatformIO se comparten aqui (tomar en cuenta que el fuente de Arduino es *.INO. mientras el modulo principal en PlatformIO es main.cpp ademas del proyecto platformio.ini)...
 
-Reproductor MP3 
-[Mp3Player_Cardputer.zip](https://github.com/user-attachments/files/24147600/Mp3Player_Cardputer.zip)
+* Reproductor MP3 
+[cardputer_mp3.zip](https://github.com/user-attachments/files/24147898/cardputer_mp3.zip)
+
 
 
 
