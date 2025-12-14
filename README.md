@@ -53,7 +53,6 @@ Una vez instaladas las librerias, se pueden compilar algunos ejemplos provistos 
 Igual que en las librerias de Aduino, para PlatforIO se reqieren tambien las librerias: M5Cardputer, M5GFX y M5Unified.
 
 <img width="1365" height="718" alt="Cardputer_platforIO_lib" src="https://github.com/user-attachments/assets/fbab8454-4e57-4296-bbb6-03616c20a488" />
-<img width="976" height="644" alt="Cardputer_platforIO" src="https://github.com/user-attachments/assets/bf353d87-3fff-4bd6-b9c7-d07baf890eb1" />
 
 Una vez instalado PlatforIO, se compila el codigo de M5Stack.
 ![img](https://github.com/user-attachments/assets/8979e5dd-eb99-4b7c-9d3b-70b672116702)
@@ -84,6 +83,7 @@ A nivel codigo fuente, los ejemplos representativos en Arduino/PlatformIO se com
 
 * Reproductor MP3 
 [cardputer_mp3.zip](https://github.com/user-attachments/files/24147898/cardputer_mp3.zip)
+<img width="976" height="644" alt="Cardputer_platforIO" src="https://github.com/user-attachments/assets/bf353d87-3fff-4bd6-b9c7-d07baf890eb1" />
 
 
 
