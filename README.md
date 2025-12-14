@@ -66,13 +66,19 @@ Una vez instalado PlatforIO, se compila el codigo de M5Stack.
 
 * A traves de Python puede programar con este lenguaje, para ello hay que instalar el software por medio de la propia tarjeta del dispositivo.
 <img width="605" height="450" alt="M5stack" src="https://github.com/user-attachments/assets/28a0d5da-b6ae-436f-9226-ed159871147d" />
+
 en este link es posible descargar el software necesario
 <img width="1299" height="605" alt="python01" src="https://github.com/user-attachments/assets/32a38267-a7cf-42a8-b71a-4046a4006df3" />
   El .UF2 que instala la unidad en la PC al abrir el instalador:
   <img width="654" height="398" alt="python02" src="https://github.com/user-attachments/assets/3c01fff7-aef3-48ad-b3b2-791ffb2cef30" />
 
-  es importante indicar que el boton  "GO" de lado izquierdo junto al interruptor debe ser presionado unos segundos antes de conectar el cable USB considerando que esta apagada antes del proceso de la Cardputer como lo muestra la imagen:
-  
+es importante indicar que el boton  "GO" de lado izquierdo junto al interruptor debe ser presionado unos segundos antes de conectar el cable USB considerando que esta apagada antes del proceso de la Cardputer como lo muestra la imagen:
+<img width="1800" height="1059" alt="python03" src="https://github.com/user-attachments/assets/512955b1-e980-4aff-beac-ea1e0e601c2e" />
+
+una vez cargado el software en la unidad UF2 se muestra un icono que representa a la Cardputer ya instalada:
+<img width="517" height="436" alt="python05" src="https://github.com/user-attachments/assets/e51f6f0c-75ad-4972-ac37-dd1138db90af" />
+
+Y el software esta listo para programar en Python.
 
 
 /* ejemplo 01
