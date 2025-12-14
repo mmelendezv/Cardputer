@@ -85,7 +85,7 @@ A nivel codigo fuente, los ejemplos representativos en Arduino/PlatformIO se com
 [cardputer_mp3.zip](https://github.com/user-attachments/files/24147898/cardputer_mp3.zip)
 ![img](https://github.com/user-attachments/assets/d6fa1b63-72c4-4c3f-bb44-6297fe434962)
 
-* Graficos en M5Stack
+* Graficos en M5Stack 
 ![Cardputer_Graphics](https://github.com/user-attachments/assets/815b43f8-edda-462e-9ed9-93483403c0cf)
 [Cardputer_Graphics.zip](https://github.com/user-attachments/files/24154629/Cardputer_Graphics.zip)
 
