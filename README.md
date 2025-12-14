@@ -88,4 +88,3 @@ A nivel codigo fuente, los ejemplos representativos en Arduino/PlatformIO se com
 
 
 
-
