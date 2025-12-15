@@ -61,7 +61,7 @@ Igual que en las librerias de Aduino, para PlatforIO se reqieren tambien las lib
 Una vez instalado PlatforIO, se compila el codigo de M5Stack.
 <img width="976" height="644" alt="Cardputer_platforIO" src="https://github.com/user-attachments/assets/a2c8eb8d-0adb-4d1d-af63-15df13a14015" />
 
- * A traves de  UIFLOW se tiene una intefaz grafica para programar de una manera amigable, para ello se requiere cargar el software para registrarse:
+ * A traves de  UIFLOW se tiene una intefaz grafica para programar de una manera amigable, para ello se requiere cargar el software para registrarse (https://m5burner-cdn.m5stack.com/app/M5Burner-v3-beta-win-x64.zip):
 
    <img width="735" height="462" alt="Cardputer_uiFlow" src="https://github.com/user-attachments/assets/e8ee0f2f-edf0-4af1-9665-cefb3a831606" />   
    <img width="769" height="632" alt="Cardputer_uiFlow2" src="https://github.com/user-attachments/assets/eafa3f80-2f92-4ef0-ae90-e7477d8b704b" />
@@ -109,7 +109,7 @@ Durante el desarrollo de la programacion, se realiza el borrado de la Cardputer 
 3. Abrir el software M5Burner con la opcion indicada en la imagen (es la carga CARDPUTER USER DEMO, se recomienda utilizar la version V0.9.1)
    <img width="1275" height="717" alt="carga_fabrica" src="https://github.com/user-attachments/assets/41f1d6b9-b8ad-4e29-b5ab-00ac25475d88" />
 
-4. Cardar el software en BURN
+4. Cargar el software en BURN
   <img width="1025" height="601" alt="Burn" src="https://github.com/user-attachments/assets/fd8ace0b-346b-4af1-8264-df6ad23f0e80" />
  
 6. Y esperar que de carge el software en la opcion START.
