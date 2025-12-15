@@ -95,3 +95,23 @@ https://m5burner-cdn.m5stack.com/app/M5Burner-v3-beta-win-x64.zip
 <img width="1274" height="716" alt="M5Burner" src="https://github.com/user-attachments/assets/8d450906-f2cd-480a-831d-ed4f78476355" />
 
 Y en Internet hay mucho material de difentes programadores.
+
+# Restaurar el software de fabrica.
+Durante el desarrollo de la programacion, se realiza el borrado de la Cardputer previo a una nueva carga de manera automatica. No obstante en cualquier momento por una circunstancia que no controlada por el software es posible volver a cargar el modo de fabrica. La manera mas facil es a traves del software M5Burner con el siguente procedimiento:
+1. Apagar la cardputer, tanto el conector USB como apagar el boton OFF en la posicion indicada en la imagen y seguir presionado el boton GO.
+   <img width="1800" height="1059" alt="python03" src="https://github.com/user-attachments/assets/5c92892d-056a-4a9e-97f1-4fd13b929424" />
+
+2. Encender la cardputer con el cable energizado y soltar ya el boton GO.
+3. Abrir el software M5Burner con la opcion indicada en la imagen (es la carga CARDPUTER USER DEMO, se recomienda utilizar la version V0.9.1)
+   <img width="1275" height="717" alt="carga_fabrica" src="https://github.com/user-attachments/assets/41f1d6b9-b8ad-4e29-b5ab-00ac25475d88" />
+
+4. Cardar el software en BURN
+  <img width="1025" height="601" alt="Burn" src="https://github.com/user-attachments/assets/fd8ace0b-346b-4af1-8264-df6ad23f0e80" />
+ 
+6. Y esperar que de carge el software en la opcion START.
+   <img width="1080" height="528" alt="cargadoFinal" src="https://github.com/user-attachments/assets/6e07914f-7cc3-4f84-befb-b7195bc03027" />
+
+7. Si no se muestra la pantalla inicial, presionar el boton BtnRst, la cardputer debe estar lista.
+   <img width="498" height="389" alt="pantalla_inicial" src="https://github.com/user-attachments/assets/8f1758e1-d293-415f-945e-56dc66b94a25" />
+
+
