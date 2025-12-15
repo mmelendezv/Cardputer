@@ -31,6 +31,10 @@ Características:
 * Sonido: bocina I2S de 8 ohmios a 1W.
 * Interface HY2.0-4P para expander sensores I2C.
 
+La página oficial del fabricante lo encontrarás en el sitio:
+https://docs.m5stack.com/en/core/Cardputer
+
+
 # Inicio en Cardputer
 El desarrollo de la programacion es flexible, puede ser en difentes formas:
 
