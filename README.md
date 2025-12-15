@@ -94,3 +94,4 @@ Dentro de las librerias de M5Stack como se mencionaron (M5Cardputer, M5GFX y M5U
 https://m5burner-cdn.m5stack.com/app/M5Burner-v3-beta-win-x64.zip
 <img width="1274" height="716" alt="M5Burner" src="https://github.com/user-attachments/assets/8d450906-f2cd-480a-831d-ed4f78476355" />
 
+Y en Internet hay mucho material de difentes programadores.
